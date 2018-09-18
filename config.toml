@@ -36,8 +36,8 @@ keywords = "Psychology"
 
 ## Social Accounts
 [params.social]
-github = "<https://github.com/kokiikeda>"
-twitter = "<https://twitter.com/kokiikeda>"
+github = "kokiikeda"
+twitter = "kokiikeda"
 email = "kokiikd@gmail.com"
 
 ## Extras
