@@ -26,7 +26,7 @@ enableRobotsTXT = true
 author = "Koki Ikeda"
 intro = "Psychologist"
 description = ""
-authorimage = "static/img/koki.jpg"
+authorimage = "koki.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -42,7 +42,7 @@ email = "kokiikd@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018. Koki Ikeda. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 highlightjs = true
 
