@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "https://kokiikeda.netlify.com/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -9,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Erlich Bachman"
-title = "Erlich Bachman"
+author = "Koki Ikeda"
+title = "Koki Ikeda"
 
 theme = "hugo-goa"
 
@@ -23,28 +23,22 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Erlich Bachman"
-intro = "Startup Guru Extraordinaire"
-description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
-authorimage = "headshot.jpg"
+author = "Koki Ikeda"
+intro = "Psychologist"
+description = ""
+authorimage = "static/img/koki.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+keywords = "Psychology"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
-instagram = "<username>"
-xing = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-stackoverflow = "<username>"
-email = "you@example.com"
+github = "<kokiikeda>"
+twitter = "<kokiikeda>"
+email = "kokiikd@gmail.com"
 
 ## Extras
 [params.extra]
