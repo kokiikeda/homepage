@@ -17,8 +17,6 @@ theme = "hugo-goa"
 # Doesn't need to read Rmd files etc. so set them to be ignored
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-# 
-
 ## Hugo Built-in Features
 #disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
@@ -34,7 +32,7 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Koki's website about his research on psychology"
 keywords = "Psychology"
 
 ## Social Accounts
