@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/third/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>/blog/third/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
   </url>
   
   <url>
@@ -33,14 +33,14 @@
   </url>
   
   <url>
-    <loc>/categories/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>/tags/about/</loc>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <loc>/categories/about/</loc>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +82,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -112,7 +112,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,7 +154,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
