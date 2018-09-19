@@ -21,12 +21,23 @@
     </item>
     
     <item>
-      <title>About My Research Projects</title>
-      <link>/projects/about_projects/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      <title>test blog</title>
+      <link>/blog/test-blog/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/about_projects/</guid>
-      <description>A test.</description>
+      <guid>/blog/test-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min.</description>
     </item>
     
   </channel>
