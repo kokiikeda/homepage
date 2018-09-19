@@ -10,4 +10,4 @@ title = "About"
 showpagemeta = false
 +++
 
-I am studying psychology. This website serves as an introduction to my research field as well as random thoughts I have on various topics, mainly related to my research.
+I am studying psychology, currently at Chukyo University in Nagoya, Japan. This website serves as an introduction to my research field as well as random thoughts I have on various topics, mainly related to my research.
