@@ -1,0 +1,12 @@
+---
+title: test
+author: Koki Ikeda
+date: '2018-09-19'
+slug: test
+categories: []
+tags: []
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
