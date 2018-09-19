@@ -1,8 +1,8 @@
 ---
-title: 'about'
+title: test blog
 author: Koki Ikeda
 date: '2018-09-19'
-slug: test
+slug: test-blog
 categories: []
 tags: []
 comments: no
