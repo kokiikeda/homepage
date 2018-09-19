@@ -13,15 +13,19 @@
   </url>
   
   <url>
+    <loc>/tags/about/</loc>
+    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/about/</loc>
     <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <lastmod>2018-09-19T12:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/projects/</loc>
   </url>
   
   <url>
@@ -46,10 +50,6 @@
     <loc>/tags/</loc>
     <lastmod>2018-09-19T12:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
   </url>
   
 </urlset>
